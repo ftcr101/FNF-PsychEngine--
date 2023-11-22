@@ -1,0 +1,32 @@
+{
+	"storyName": "rap against dust papyrus (collab week)",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "judge",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"remain",
+			"swapdust",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"swapdust",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
